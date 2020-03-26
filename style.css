@@ -130,11 +130,11 @@ button{
     width: 15%;
     top: 530px;
     transform: translateX(-50%);
-    padding: .6em;
+    padding: .8em;
     font-family: Concert One;
     text-align: center;
     text-transform: uppercase;
-    font-size: 1.2m;
+    font-size: 1.4m;
 }
 
 #final-score:focus{
