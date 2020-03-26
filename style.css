@@ -124,7 +124,7 @@ button{
 }
 
 
-#final-score{
+#finali-score{
     position: absolute;
     left: 50%;
     width: 15%;
@@ -132,6 +132,7 @@ button{
     transform: translateX(-50%);
     padding: .8em;
     font-family: Concert One;
+    text-transform: uppercase;
     text-align: center;
     font-size: 1em;
 }
