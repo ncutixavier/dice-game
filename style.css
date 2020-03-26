@@ -116,12 +116,13 @@ button{
     background: none;
     border: none;
     font-family: Concert One;
-    font-size: 20px;
+    font-size: 1.4em;
     text-transform: uppercase;
     cursor: pointer;
     font-weight: 300;
     transition: background-color 0.3s, color 0.3s;
 }
+
 
 #final-score{
     position: absolute;
@@ -151,10 +152,9 @@ i {
     color: #EB4D4D;
     display: inline-block;
     margin-right: 15px;
-    font-size: 32px;
+    font-size: 2.5em;
     line-height: 1;
-    vertical-align: text-top;
-    margin-top: -4px;
+    /* vertical-align: text-top; */
     transition: margin 0.3s;
 }
 
