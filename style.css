@@ -137,6 +137,14 @@ button{
     font-size: 1em;
 }
 
+#final-score{
+    padding: 1em;
+    position: absolute;
+    left: 50%;
+    top: 530px;
+    text-transform: uppercase;
+}
+
 #final-score:focus{
     outline: none;
 }
