@@ -142,9 +142,9 @@ button{
     position: absolute;
     left: 50%;
     top: 530px;
+    transform: translateX(-50%);
     text-transform: uppercase;
-    font-family: Concert One;
-    text-transform: uppercase;
+    text-align: center;
 }
 
 #final-score:focus{
